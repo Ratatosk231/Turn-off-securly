@@ -9,3 +9,4 @@ Chrome kill is bookmarked as "B" and chrome hang is bookmarked as "C". These sho
 Press bookmark A. If it says blocked by client or something, then you didn't put the url in right.
 Press B, then withen 2 seconds of pressing B, spam click C and spam the reload button on your computer keyboard.
 Spam like this for a few seconds, then securly should be off. If nothing is loading, restart your computer, and try again. This happens if you didn't start spamming C soon enough.
+For an explanation on why this works, go to https://ltmeat.bypassi.com 
